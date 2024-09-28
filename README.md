@@ -1,9 +1,9 @@
 # Hi, I'm Sonal Riva Gonsalves 👋 
 ## An Aspiring Software Developer / Web Developer
-🎓 Currently pursuing **Master of Computer Applications** <br>
-💻 Passionate software developer specializing in **Java** and **Full Stack Development**  
-📫 Reach me at: **sonalrivagonsalves@gmail.com**  
-✨ **Fun fact**: I love solving complex problems and bringing ideas to life!
+🎓 Currently pursuing **Master of Computer Applications** <br><br>
+💻 Passionate software developer specializing in **Java** and **Full Stack Development**  <br><br>
+📫 Reach me at: **sonalrivagonsalves@gmail.com**  <br><br>
+✨ **Fun fact**: I love solving complex problems and bringing ideas to life!<br><br>
 
 # Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
