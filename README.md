@@ -1,4 +1,5 @@
 # Hi, I'm Sonal Riva Gonsalves 👋 
+## An Aspiring Software Developer / Web Developer
 🎓 Currently pursuing **Master of Computer Applications** <br>
 💻 Passionate software developer specializing in **Java** and **Full Stack Development**  
 📫 Reach me at: **sonalrivagonsalves@gmail.com**  
