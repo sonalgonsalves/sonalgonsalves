@@ -1,9 +1,11 @@
 # Hi, I'm Sonal Riva Gonsalves 👋
-🎓 Currently pursuing Master of Computer Applications
-💻 Passionate software developer specializing in Java and Full Stack Development
-📫 Reach me at: sonalrivagonsalves@gmail.com
-📄 Know about my Experience & Projects
-✨ Fun fact: I love solving complex problems and bringing ideas to life!
+<div>
+  🎓 Currently pursuing **Master of Computer Applications** &nbsp; 
+  💻 Passionate software developer specializing in **Java** and **Full Stack Development** &nbsp; 
+  📫 Reach me at: **sonalrivagonsalves@gmail.com** &nbsp; 
+  📄 Know about my [Experience & Projects](#) &nbsp; 
+  ✨ Fun fact: I love solving complex problems and bringing ideas to life!
+</div>
 
 # Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -23,4 +25,4 @@
 - **Oh My Nails**: Nail salon booking system with e-commerce features
 
 ### Let's Connect!
-- **GitHub**: [Sonal Riva Gonsalves](https://www.linkedin.com/in/sonalgonsalves/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonalgonsalves/)
