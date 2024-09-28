@@ -3,7 +3,6 @@
 🎓 Currently pursuing Master of Computer Applications<br><br>
 💻 Passionate software developer specializing in Java and Full Stack Development  <br><br>
 📫 Reach me at: <a href="mailto:sonalrivagonsalves@gmail.com">sonalrivagonsalves@gmail.com</a><br><br>
-✨ Fun fact: I love solving complex problems and bringing ideas to life!<br><br>
 
 # Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
