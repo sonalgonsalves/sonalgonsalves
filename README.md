@@ -14,14 +14,17 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Projects:
 - **AutoDesigner**: A design automation tool  
 - **To-Do List**: Task management web app  
 - **Oh My Nails**: Nail salon booking system with e-commerce features
 
-  📄 [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=appveyor&logoColor=white)](https://sonalgonsalves.me/) <br>
+### Check our my portfolio
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=appveyor&logoColor=white)](https://sonalgonsalves.me/) <br>
 
 ### Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonalgonsalves/)
