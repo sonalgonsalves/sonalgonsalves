@@ -2,7 +2,7 @@
 🎓 Currently pursuing **Master of Computer Applications** <br>
 💻 Passionate software developer specializing in **Java** and **Full Stack Development**  
 📫 Reach me at: **sonal.riva.gonsalves@gmail.com**  
-📄 Know about my [Experience & Projects](#)  
+📄 View my [Portfolio](https://sonalgonsalves.me/) <br>
 ✨ **Fun fact**: I love solving complex problems and bringing ideas to life!
 
 # Languages and Tools:
