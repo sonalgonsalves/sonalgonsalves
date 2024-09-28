@@ -1,8 +1,7 @@
 # Hi, I'm Sonal Riva Gonsalves 👋
 🎓 Currently pursuing **Master of Computer Applications** <br>
 💻 Passionate software developer specializing in **Java** and **Full Stack Development**  
-📫 Reach me at: **sonal.riva.gonsalves@gmail.com**  
-📄 View my [Portfolio](https://sonalgonsalves.me/) <br>
+📫 Reach me at: **sonalrivagonsalves@gmail.com**  
 ✨ **Fun fact**: I love solving complex problems and bringing ideas to life!
 
 # Languages and Tools:
@@ -21,6 +20,8 @@
 - **AutoDesigner**: A design automation tool  
 - **To-Do List**: Task management web app  
 - **Oh My Nails**: Nail salon booking system with e-commerce features
+
+  📄 [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=appveyor&logoColor=white)](https://sonalgonsalves.me/) <br>
 
 ### Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonalgonsalves/)
