@@ -1,56 +1,77 @@
-<h1 align="center" style="color: #ff66cc;">🌸 Hi, I'm Sonal Riva Gonsalves 👋</h1>
-<h2 align="center" style="color: #ff99ff;">✨ Aspiring Software Developer / Web Developer ✨</h2>
-
-🎓 **Currently pursuing Master of Computer Applications**<br>
-💻 **Passionate software developer specializing in Java and Full Stack Development**<br>
-📫 **Reach me at**: [sonalrivagonsalves@gmail.com](mailto:sonalrivagonsalves@gmail.com)
-
----
-
-### 🌟 **Languages and Tools**:
-<p align="center">
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=6A1B9A)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=6A1B9A)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=6A1B9A)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=6A1B9A)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=6A1B9A)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&color=6A1B9A)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=6A1B9A)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=6A1B9A)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&color=6A1B9A)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=6A1B9A)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&color=6A1B9A)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=6A1B9A)
+[![An image of Sonal Riva Gonsalves's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sonalriva)](https://holopin.io/@sonalriva)
+<div align="center"> 
+        <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=21&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&repeat=false&width=500&height=40&lines=SALUTATIONS+👋+,+SONAL+RIVA+GONSALVES!" alt="my github stats svg" />
+</div>
+<hr style="line:0.1px solid yellow;">
+<div align="center"> 
+        <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&repeat=false&width=350&height=21&lines=A+PASSIONATE+SOFTWARE+DEVELOPER" alt="my github stats svg" />
+</div>
+<br>
+<p align='center'>
+<img align="center" width="150" alt="🦑" src="https://count.getloli.com/get/@:sonalriva?theme=rule34">
+<br>
+<img src='https://github-widgetbox.vercel.app/api/profile?username=sonalriva&theme=nautilus&data=repositories,stars,commits'>
 </p>
+<hr style="line:0.1px solid yellow;">
+<div align="center">
+    <div align="center"> 
+        <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&repeat=false&width=300&height=21&lines=👨‍💻+ABOUT+ME" alt="my github stats svg" />
+    </div>
+    <br>
+    <p>Hey there! I'm Sonal Riva Gonsalves, an aspiring software developer with a passion for coding and problem-solving. Currently pursuing my Master of Computer Applications (MCA), I specialize in Java and Full Stack Development. My goal is to bring innovative solutions to life and continue learning along the way. Explore my projects and let's collaborate to create something amazing!</p>
+    <p>Feel free to reach out via email: [sonalrivagonsalves@gmail.com](mailto:sonalrivagonsalves@gmail.com)</p>
+</div>
 
----
+<div align="center"> 
+        <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&repeat=false&width=300&height=21&lines=📫+LET'S+CONNECT" alt="my github stats svg" />
+    </div>
+    <br>
+<p align="center">
+  <a href="https://twitter.com/sonal_riva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sonal_riva" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sonalriva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonalriva" height="30" width="40" /></a>
+  <a href="https://instagram.com/sonal_riva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sonal_riva" height="30" width="40" /></a>
+</p>
+<hr style="border:0.5px solid yellow;">
+<div align="center"> 
+        <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&repeat=false&width=300&height=21&lines=LANGUAGES+AND+TOOLS" alt="my github stats svg" />
+    </div>
+    <br>
+<div align="center">
+  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div>
+</div>
 
-### 💻 **Projects**:
-- **AutoDesigner**: A design automation tool  
-- **To-Do List**: Task management web app  
-- **Oh My Nails**: Nail salon booking system with e-commerce features
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  </a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  </a>
+</p>
+<hr style="border:0.5px solid yellow;">
+<!--My github stats-->
+<div align="center"> 
+    <img loading="lazy" width="21" align="center" src="https://github.com/sonalriva/sonalriva/assets/109797633/7e961344-c1c2-46e0-9131-f5481f604ea0" alt="pie chart png" />
+    <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=FFFF00&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
+</div>
+<br>
+<!--languages-->
+<p align='center'><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=sonalriva&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=false&bg_color=0d1117&hide_title=true" alt="sonalriva" /></p>
+<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sonalriva&show_icons=true&locale=en&theme=highcontrast&hide_border=false&bg_color=0d1117&hide_title=true" alt="sonalriva" /></p>
+<!--Trophy-->
+<div align="center">
+    <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=sonalriva&theme=radical&no-bg=true&no-frame=false&row=1&column=5"  alt="github profile trophy"/>
+</div><br>
+<div align="center">
+        <img loading="lazy" src="https://github-contributor-stats.vercel.app/api?username=sonalriva&limit=5&combine_all_yearly_contributions=true&no-bg=true&no-frame=true&area=true&theme=highcontrast&hide_border=false&bg_color=0d1117"  alt="contribution repo"/>
+</div><br>
+<!--Streak-->
+<p align='center'><img loading="lazy" src="https://streak-stats.demolab.com/?user=sonalriva&theme=highcontrast&hide_border=false&border_radius=7&background=0d1117&stroke=FFFF00" alt="streak stats" /></p>
 
----
-
-### 📍 **Check out my portfolio**:
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=appveyor&logoColor=white)](https://sonalgonsalves.me/)  
-
----
-
-### 🤝 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonalgonsalves/)
-
----
-
-## 💖 **About Me:**
-I'm a passionate developer who loves to build and innovate using the latest technologies. Always striving to learn and grow, I enjoy challenges and working on diverse projects, especially when they involve creative problem-solving and dynamic tech stacks!
-
----
-
-### 🌸 **Fun Facts About Me**:
-- I enjoy dancing, gaming, and public speaking 🎮🕺
-- I’m an anime fan and often draw inspiration from it for my projects 🎨✨
-
----
-
-### 🌟 **Let’s build something amazing together!**
