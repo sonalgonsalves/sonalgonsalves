@@ -40,29 +40,3 @@
   </a>
 </p>
 
-<style>
-  body {
-    background-color: #121212;
-    color: #fff;
-    font-family: 'Noto Sans', sans-serif;
-  }
-  a {
-    color: #FF6347;
-    text-decoration: none;
-    transition: color 0.3s ease-in-out;
-  }
-  a:hover {
-    color: #F4A300;
-  }
-  h1, h2 {
-    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7), 0 0 25px rgba(255, 99, 71, 0.8);
-  }
-  img {
-    border-radius: 10px;
-    box-shadow: 0px 5px 20px rgba(255, 99, 71, 0.7);
-    transition: transform 0.3s ease-in-out;
-  }
-  img:hover {
-    transform: scale(1.1);
-  }
-</style>
