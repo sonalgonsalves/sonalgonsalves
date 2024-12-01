@@ -1,9 +1,6 @@
 <h1 align="center" style="color: #FF6347; font-family: 'Noto Sans', sans-serif; font-size: 50px; text-shadow: 2px 2px 5px rgba(255, 99, 71, 0.7);">Hi, I'm Sonal Riva Gonsalves 👋</h1>
 <h2 align="center" style="color: #F4A300; font-family: 'Noto Sans', sans-serif; font-size: 35px; text-shadow: 2px 2px 5px rgba(244, 163, 0, 0.8);">An Aspiring Software Developer / Web Developer</h2>
 
-## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
-
-
 <p align="center" style="font-family: 'Noto Sans', sans-serif; font-size: 20px; color: #FFFFFF;">🎓 Currently pursuing Master of Computer Applications</p>
 <p align="center" style="font-family: 'Noto Sans', sans-serif; font-size: 20px; color: #FFFFFF;">💻 Passionate software developer specializing in Java and Full Stack Development</p>
 <p align="center" style="font-family: 'Noto Sans', sans-serif; font-size: 20px; color: #FFFFFF;">📫 Reach me at: <a href="mailto:sonalrivagonsalves@gmail.com" style="color: #FF6347; text-decoration: underline;">sonalrivagonsalves@gmail.com</a></p>
